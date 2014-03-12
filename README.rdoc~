@@ -1,0 +1,5 @@
+== README
+
+demo_app for ROR study.
+
+<tt>rake doc:app</tt>.
